@@ -1,4 +1,4 @@
-import React , {Component} from 'react'
+import React, {Component} from 'react';
 class Navbar extends Component {
   render() { 
     return(
@@ -17,6 +17,4 @@ class Navbar extends Component {
  
 export default Navbar;
 
-
-import React from 'react'
 
